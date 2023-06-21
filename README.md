@@ -1,5 +1,5 @@
 # Alarm-and-reminder
-This Python code sets up a reminder with a notification and a sound alarm. Here's a shorter description:
+This Python code sets up a reminder with a notification and a sound alarm. 
 
 The code uses the `plyer` library to display desktop notifications and the `time` module to implement a timer. 
 
